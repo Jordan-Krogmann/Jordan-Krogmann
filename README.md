@@ -18,7 +18,7 @@ Skills:
 
 <h3>My Github Stats</h3>
 <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Jordan-Krogmann&theme=github-dark-blue" alt="Jordan-Krogmann" />
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&layout=compact&hide=html,jupyter%20notebook" alt="Jordan-Krogmann" />
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&layout=compact&theme=github-dark-blue&hide=html,jupyter%20notebook" alt="Jordan-Krogmann" />
 
 
 <h3>Where to find me</h3>
