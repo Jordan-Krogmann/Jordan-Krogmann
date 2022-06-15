@@ -1,4 +1,4 @@
-# Jordan Krogmann <a href='https://www.umgc.edu/'><img src='https://raw.githubusercontent.com/UMGC-Analytics/.github/main/images/analytics_hex_alt.png' align="right" height="138.5" /></a>
+# Jordan Krogmann
 
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQHT990QF-lcPA/profile-displaybackgroundimage-shrink_200_800/0/1642198764098?e=1660780800&v=beta&t=_YMouWqKU5hEMgZx5sWuXM74SucyOmi84Zbygl3RNrI)
 
@@ -16,12 +16,12 @@ Skills: R / Python / JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jordan-Krogmann)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jordan-Krogmann) 
+
 <br>
 
 
  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jordan-Krogmann)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jordan-Krogmann)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jordan-krogmann-41ab348a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr_biscuit_mrs_crumpet/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jordan_krogmann)  
 
