@@ -11,6 +11,8 @@ Skills:
 <code><img height="20" src="https://raw.githubusercontent.com/Jordan-Krogmann/Jordan-Krogmann/main/images/microsoftsql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Jordan-Krogmann/Jordan-Krogmann/main/images/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Jordan-Krogmann/Jordan-Krogmann/main/images/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/Jordan-Krogmann/Jordan-Krogmann/main/images/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/Jordan-Krogmann/Jordan-Krogmann/main/images/html.png"></code>
 
 <br>
 
