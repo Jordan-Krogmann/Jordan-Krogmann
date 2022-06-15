@@ -12,7 +12,7 @@ Skills: R / Python / JS / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/Jordan-Krogmann) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Krogmann&show_icons=true&count_private=true) [![Jordan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&hide=html,jupyter%20notebook&layout=compact)](https://github.com/Jordan-Krogmann/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Krogmann&show_icons=true&count_private=true) [![Jordan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&hide=html,jupyter%20notebook)](https://github.com/Jordan-Krogmann/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jordan-Krogmann)  
 
