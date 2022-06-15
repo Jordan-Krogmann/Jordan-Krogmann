@@ -19,16 +19,12 @@ Skills:
 # Fun Stuff
 
 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
-
-" alt="abhisheknaiidu" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jordan-Krogmann&theme=github-dark-blue)](https://git.io/streak-stats)
 
 
 
 
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Jordan-Krogmann&theme=github-dark-blue" alt="Jordan-Krogmann" />
 
 
 ![GitHub metrics](https://metrics.lecoq.io/Jordan-Krogmann) 
