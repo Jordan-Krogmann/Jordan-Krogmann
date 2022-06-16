@@ -21,7 +21,7 @@ Skills:
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&hide=html,jupyter%20notebook" alt="Jordan-Krogmann" />
 
   
-[![Jordan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&hide=html,jupyter%notebook&layout=compact)](https://github.com/Jordan-Krogmann/github-readme-stats)
+[![Jordan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&hide=jupyter%20notebook&layout=compact)](https://github.com/Jordan-Krogmann/github-readme-stats)
 
 
 <h3>Where to find me</h3>
